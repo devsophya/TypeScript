@@ -1,0 +1,9 @@
+Encapsulamento:
+- Restringir os atributos para que eles só possam ser alterados dentro da própria classe. (private)
+
+Herança:
+- A classe filha herda no construtor, o construtor da classe mãe com seus atributos. (super)
+- Com a herança é herdado todos os atributos, assim como, os métodos.
+
+Polimorfismo:
+- Todo objeto filho pode ser considerado também um objeto que segue a classe mãe, porque ele herda as caracteristicas dela.
