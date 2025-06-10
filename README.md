@@ -1,2 +1,2 @@
 <h1 align="center" >Projeto Lista de Tarefas 🎫</h1>
-<img src="https://github.com/devsophya/HTML-e-CSS/blob/main/Projeto/assets/Projeto%20Pagina%20Estatica.png">
+<img src="https://github.com/devsophya/TypeScript/blob/main/Projeto%20-%20Lista%20de%20Tarefas/asset/lista%20de%20tarefas.png">
